@@ -1,0 +1,2 @@
+run_id,folds,mean_auc,mean_auprc,remark
+prediction,5,0.8936368106669349,0.5408350886553495,Auto pos_weight: 50.00
